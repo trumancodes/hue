@@ -1,0 +1,38 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+myenv/
+ENV/
+env/
+hue_env/
+
+# Editor/IDE-specific
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Local development settings (modify as needed)
+.env
+local_settings.py
+
+# Dependency management files
+pip-log.txt
+requirements.txt
